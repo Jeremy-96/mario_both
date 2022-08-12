@@ -84,12 +84,23 @@ Height: 6
 ######  ######
 ```
 
-5. Input a value out of the range, more 8 or less 1 (for example 9)
+5. Or 2
+```
+Height: 2
+```
+
+6. The result is
+```
+ #  #
+##  ##
+```
+
+7. Input a value out of the range, more 8 or less 1 (for example 9)
 ```
 Height: 9
 ```
 
-6. The result is
+8. The result is
 ```
 Height: _
 ```
