@@ -14,7 +14,7 @@ The second project of CS50 by Harvard is to print a pyramid like the game Mario 
 
 *This section list any language use to do the project*
   
--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c language" width="25" height="25">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c language" width="25" height="25">
 
 
 **Getting started**
@@ -63,7 +63,7 @@ Always on the terminal in the ***mario_both*** folder
 ```
 
 2. The console prompt you to input a value in height.  
-If you input a value between 0 and 9 like 1 to 8, you can see the resulte in you console. 
+If you input a value between 0 and 9 like 1 to 8, you can see the result in your console. 
 ```
 Height: _
 ```
